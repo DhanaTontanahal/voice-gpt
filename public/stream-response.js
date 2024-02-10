@@ -1,6 +1,6 @@
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
-const API_KEY = "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";
+const API_KEY = "put your own key";
 
 document.getElementById("generateBtn").style.display = "none";
 document.getElementById("stopBtn").style.display = "none";
